@@ -1,0 +1,9 @@
+dir,image_size,repo_id,transform,distance_metric,file,distance
+my_images,1024,CompVis/stable-diffusion-v1-1,clean,lpips_vgg_2,gpt-1.png,-0.05010986328125
+my_images,1024,CompVis/stable-diffusion-v1-1,clean,lpips_vgg_2,real-1.png,-0.0309906005859375
+my_images,1024,Manojb/stable-diffusion-2-base,clean,lpips_vgg_2,gpt-1.png,-0.047088623046875
+my_images,1024,Manojb/stable-diffusion-2-base,clean,lpips_vgg_2,real-1.png,-0.029022216796875
+my_images,1024,kandinsky-community/kandinsky-2-1,clean,lpips_vgg_2,gpt-1.png,-0.046905517578125
+my_images,1024,kandinsky-community/kandinsky-2-1,clean,lpips_vgg_2,real-1.png,-0.0295562744140625
+my_images,1024,max,clean,lpips_vgg_2,gpt-1.png,-0.046905517578125
+my_images,1024,max,clean,lpips_vgg_2,real-1.png,-0.029022216796875
